@@ -1,3 +1,13 @@
+# Starboard Side Finance
+All hands to Starboard Side! ⛵
+
+The Starboard Protocol is a governance aggregation protocol which boosts rewards for delegates and provides additional protections for related DAOs. Learn more: https://starboardside.finance/
+
+This repo contains the code for smart contracts and the Starboard Protocol which operate the governance module for Starboard Side:
+- Converts gauges into OZ Governor
+- Provides additional protections for DAOs, for example enforcing that gauges can not be used for security council votes
+- Connects to Enzyme Vaults for deposits
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
